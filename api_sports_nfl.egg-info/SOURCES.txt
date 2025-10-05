@@ -1,0 +1,7 @@
+README.md
+setup.py
+api_sports_nfl.egg-info/PKG-INFO
+api_sports_nfl.egg-info/SOURCES.txt
+api_sports_nfl.egg-info/dependency_links.txt
+api_sports_nfl.egg-info/requires.txt
+api_sports_nfl.egg-info/top_level.txt
