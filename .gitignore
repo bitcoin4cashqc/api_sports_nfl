@@ -1,1 +1,5 @@
 cache.json
+
+__pycache__
+
+*egg*
